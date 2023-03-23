@@ -8,7 +8,7 @@
 - [svp.txt](https://github.com/AkexStar/MBES-DataProcess-Matlab/blob/main/svp.txt) 声速剖面数据（txt文本文件格式）
 - [vessel.mat](https://github.com/AkexStar/MBES-DataProcess-Matlab/blob/main/vessel.mat) 船体坐标系下各仪器设备坐标，包括换能器、GNSS、MRU（matlab mat数据文件格式）
 - [vessel.xlsx](https://github.com/AkexStar/MBES-DataProcess-Matlab/blob/main/vessel.xlsx) 船体坐标系下各仪器设备坐标，包括换能器、GNSS、MRU（excel数据文件格式）
-- ./sample-result-preview 提供了几张样例数据处理后的可视化图片
+- [./sample-result-preview](https://github.com/AkexStar/MBES-DataProcess-Matlab/tree/main/sample-result-preview) 提供了几张样例数据处理后的可视化图片
 ## 算法原理
 
 ### 基本过程
