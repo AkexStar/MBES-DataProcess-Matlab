@@ -3,12 +3,12 @@
 ## 本项目文件构成说明
 - [survey.mlx](https://github.com/AkexStar/MBES-DataProcess-Matlab/blob/main/survey.mlx) 核心程序文件，为matlab实时脚本文件，只能用较高版本matlab打开
 - [RawData.mat](https://github.com/AkexStar/MBES-DataProcess-Matlab/blob/main/RawData.mat) 原始多波束数据（matlab mat数据文件格式）
-- RawData.txt 原始多波束数据（txt文本文件格式）
+- RawData.txt 原始多波束数据（txt文本文件格式） 超过25Mb无法上传GitHub 有需要单独联系
 - [svp.mat](https://github.com/AkexStar/MBES-DataProcess-Matlab/blob/main/svp.mat) 声速剖面数据（matlab mat数据文件格式）
 - [svp.txt](https://github.com/AkexStar/MBES-DataProcess-Matlab/blob/main/svp.txt) 声速剖面数据（txt文本文件格式）
 - [vessel.mat](https://github.com/AkexStar/MBES-DataProcess-Matlab/blob/main/vessel.mat) 船体坐标系下各仪器设备坐标，包括换能器、GNSS、MRU（matlab mat数据文件格式）
 - [vessel.xlsx](https://github.com/AkexStar/MBES-DataProcess-Matlab/blob/main/vessel.xlsx) 船体坐标系下各仪器设备坐标，包括换能器、GNSS、MRU（excel数据文件格式）
-
+- ./sample-result-preview 提供了几张样例数据处理后的可视化图片
 ## 算法原理
 
 ### 基本过程
