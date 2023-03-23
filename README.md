@@ -59,3 +59,12 @@
   3.5. 结果点云三维可视化
 
 **4. 实验心得**
+
+## 处理结果预览
+![未滤波三维图1](https://user-images.githubusercontent.com/55226358/227261659-98959b37-96f6-40ed-9d5b-66ffb424715d.png)
+![滤波后三维图1](https://user-images.githubusercontent.com/55226358/227261774-2df50aac-0577-4888-a7ee-2c448e8ce77e.png)
+
+
+## 欢迎关注公众号【Akex】
+![image](https://user-images.githubusercontent.com/55226358/227260968-d5fe3591-b752-4554-b815-194df4d3bcb2.png)
+
