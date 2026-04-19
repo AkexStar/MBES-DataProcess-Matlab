@@ -16,6 +16,10 @@
 - 坐标转换（从多波束局部坐标系到地理坐标系）
 - 海底点云滤波
 - 可以参考这篇微信推送 [笔记丨多波束测深数据简单处理（声线跟踪+坐标转换）](https://mp.weixin.qq.com/s/uopvvRfChe-lT3MKV3yVUg)
+- 手机查看文字可以扫码：
+
+<img width="150" height="150" alt="qrcode_mp weixin qq com" src="https://github.com/user-attachments/assets/2d4a5d34-cd34-4ef7-98fc-2067c77c2d8f" />
+
 
 ### 微信推送目录
 **1. 实验要求**
@@ -66,5 +70,5 @@
 
 
 ## 欢迎关注公众号【Akex】
-![image](https://user-images.githubusercontent.com/55226358/227260968-d5fe3591-b752-4554-b815-194df4d3bcb2.png)
+<img width="1710" height="624" alt="扫码_搜索联合传播样式-标准色版" src="https://github.com/user-attachments/assets/ab42d08d-0ad9-490c-a74b-4beb0435a661" />
 
